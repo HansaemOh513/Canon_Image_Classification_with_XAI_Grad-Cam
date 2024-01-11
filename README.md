@@ -1,4 +1,4 @@
-# Cannon-Image-Classification-with-XAI-Grad-Cam
+# Cannon Image Classification with XAI Grad-Cam
 ## code : machine learning model using CNN
 
 - binary : binarization using Ostu algorithm
