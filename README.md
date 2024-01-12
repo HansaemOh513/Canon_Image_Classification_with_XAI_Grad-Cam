@@ -12,6 +12,3 @@
 
 - cropchecker : checking whick area is suitable for model
 - image generator : generating image to see it is suitable
-
-
-## Let's go dinner!
